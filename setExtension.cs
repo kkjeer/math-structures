@@ -1,7 +1,6 @@
 /*
 Katherine Kjeer
-CS 251 Final Project
-May 19, 2015
+2015
 setExtension.cs
 Extension methods to support set operations (intersection, union, etc.) on Lists
 */
