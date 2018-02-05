@@ -1,7 +1,6 @@
 /*
 Katherine Kjeer
-CS 251 Final Project
-May 19, 2015
+2015
 listExtension.cs
 Extension methods for string manipulation and equality/containment checking
 	of Lists and other enumerable data structures
