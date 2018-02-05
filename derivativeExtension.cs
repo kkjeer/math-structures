@@ -1,7 +1,6 @@
 /*
 Katherine Kjeer
-CS 251 Final Project
-May 19, 2015
+2015
 derivativeExtension.cs
 Extension methods to find the n-th derivative of a real-valued function
 	with respect to any variable
