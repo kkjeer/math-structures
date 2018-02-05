@@ -1,7 +1,6 @@
 /*
 Katherine Kjeer
-CS 251 Final Project
-May 19, 2015
+2015
 Group.cs
 Class to implement groups, consisting of a list and a binary operation
 */
