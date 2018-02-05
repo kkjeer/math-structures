@@ -1,7 +1,6 @@
 /*
 Katherine Kjeer
-CS 251 Final Project
-May 19, 2015
+2015
 MathDriver.cs
 Contains the testing code for the remaining project files
 This project requires installing mono (http://www.mono-project.com/download/) in order to run on a Mac.
