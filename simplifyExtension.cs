@@ -1,7 +1,6 @@
 /*
 Katherine Kjeer
-CS 251 Final Project
-May 19, 2015
+2015
 simplifyExtension.cs
 Extension methods to (partially) simplify a real-valued mathematical function
 	e.g. replaces 1 * x with x, x + 0 with x, etc.
