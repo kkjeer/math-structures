@@ -1,7 +1,6 @@
 /*
 Katherine Kjeer
-CS 251 Final Project
-May 19, 2015
+2015
 VectorField.cs
 Class to implement an n-dimensional vector field,
 	including div, grad and curl operations
